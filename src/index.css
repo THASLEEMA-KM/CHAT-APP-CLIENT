@@ -30,11 +30,11 @@
 #messages {
   list-style-type: none;
   margin-top: 10px;
-  margin-bottom: 75px;
+  margin-bottom: 10px;
   padding: 0;
   width: 100%;
   max-width: 600px;
-  max-height: 50vh;
+  max-height: 80vh;
   overflow-y: auto;
   flex: 1;
   /* background: #2c2c3c; */
