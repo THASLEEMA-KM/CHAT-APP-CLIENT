@@ -7,7 +7,7 @@ import { Button } from 'react-bootstrap'
 
 
 
-const socket = io("http://localhost:5000/")
+const socket = io("https://chat-app-server-az7d.onrender.com")
 const Chat = () => {
     const [message,setMessage] = useState("");
     const [inputUsername, setInputUsername] = useState("");
